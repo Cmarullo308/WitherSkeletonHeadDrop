@@ -1,0 +1,6 @@
+main: me.WitherSkeletonHeadDrop.main.WitherSkeletonHeadDrop
+name: WitherSkeletonDropHeads
+author: CJM
+version: 1.0
+api-version: 1.13
+description: Make witherskeleton drop heads more
